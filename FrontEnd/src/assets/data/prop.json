@@ -1,39 +1,51 @@
 [
     {
     "ID":1,
+    "SellRent":2,
     "Name":"Birla House",
     "Type":"House",
-    "Price":12000
+    "Price":12000,
+    "Image":"prop-1"
     },
     {
       "ID":2,
+      "SellRent":2,
       "Name":"Erose Villa",
       "Type":"Villa",
-      "Price":12500
+      "Price":12500,
+      "Image":"prop-2"
     },
     {
       "ID":3,
+      "SellRent":1,
       "Name":"Mark List",
       "Type":"Flat",
-      "Price":13000
+      "Price":13000,
+      "Image":"prop-3"
     },
     {
       "ID":4,
+      "SellRent":2,
       "Name":"Birla House",
       "Type":"House",
-      "Price":15000
+      "Price":15000,
+      "Image":"prop-4"
     },
     {
       "ID":5,
+      "SellRent":1,
       "Name":"Macro Home",
       "Type":"House",
-      "Price":14500
+      "Price":14500,
+      "Image":"prop-5"
     },
     {
       "ID":6,
+      "SellRent":1,
       "Name":"Pearl White House",
       "Type":"House",
-      "Price":12600
+      "Price":12600,
+      "Image":""
     }
 
 
